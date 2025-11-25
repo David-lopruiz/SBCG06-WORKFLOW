@@ -1,0 +1,7 @@
+Pin del BME68x	Conectar a ESP32	Descripción
+VCC	3.3 V	Alimentación
+GND	GND	Tierra
+SDA	GPIO21	Datos I²C
+SCL	GPIO22	Reloj I²C
+CS	3.3 V	🔸 Fuerza el modo I²C
+SDO / AD0	GND (=0x76) o 3.3V (=0x77)	Selecciona dirección I²C
