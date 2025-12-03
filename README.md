@@ -2,7 +2,7 @@
 
 | Elemento | Completo |  Modularizado   |
 |----------|----------|-----------------|
-| Bluetooth| ✅        | ❌            |
+| Bluetooth| ✅        | ✅             |
 | Ambiente | ✅        | ✅            |
 | WiFi     | ✅        | ❌            |
 | Gas      | ✅        | ✅            |
