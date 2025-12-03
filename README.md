@@ -5,5 +5,5 @@
 | WiFi     | ✅        | ❌            |
 | Ambiente | ✅        | ✅            |
 | WiFi     | ✅        | ❌            |
-| Gas      | ❌        | ❌            |
+| Gas      | ✅        | ✅            |
 | OTA      | ✅        | ❌            | 
